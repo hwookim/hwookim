@@ -4,6 +4,6 @@
 [![](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://velog.io/@sian)](https://hwookim.github.io/portfolio/)
 
 👨‍💻 Backend Developer  
-Back-End: Java, Spring 
+Back-End: Java, Spring  
 Front-End: Javascript, Vue.js  
 Infra: Jenkins, AWS EC2
