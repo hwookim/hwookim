@@ -2,7 +2,7 @@
 
 ### 김 현 우 (Kim HyunWoo)
 👨‍💻 Backend Developer  
-[![](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://velog.io/@sian)](https://hwookim.github.io/portfolio/)
+[![](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://velog.io/@sian)](https://hwookim.github.io/portfolio/)  
 **Back-End**: Java, Spring, Spring Data JPA, Junit5  
 **Front-End**: Javascript, Vue.js  
 **Infra**: Jenkins, Nginx, AWS EC2
