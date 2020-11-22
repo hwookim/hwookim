@@ -2,7 +2,9 @@
 
 ### 김 현 우 (Kim HyunWoo)
 👨‍💻 Junior Backend Developer  
-[![](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://velog.io/@sian)](https://hwookim-portfolio.netlify.app/)  
+[![](http://img.shields.io/badge/-Resume-00A98F?style=flat&logo=About.me&logoColor=white&link=https://hwookim-portfolio.netlify.app/)](https://hwookim-portfolio.netlify.app/)
+![Resume PDF](http://img.shields.io/badge/-Resume%20PDF-1E4C7C?style=flat&logo=About.me&logoColor=white&link=https://github.com/hwookim/hwookim/raw/master/%EA%B9%80%ED%98%84%EC%9A%B0%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20v20201120.pdf)
+(https://github.com/hwookim/hwookim/raw/master/%EA%B9%80%ED%98%84%EC%9A%B0%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20v20201120.pdf)
 
 **Back-End**: Java, Spring, Spring Data JPA, Junit5  
 **Front-End**: Javascript, Vue.js  
