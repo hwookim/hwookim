@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hwookim&show_icons=true&theme=great-gatsby" />
-
 ### 김 현 우 (Kim HyunWoo)
 👨‍💻 Junior Backend Developer  
 [![](http://img.shields.io/badge/-Portfolio-blue?style=flat&logo=About.me&logoColor=white&link=https://hwookim-portfolio.netlify.app/)](https://hwookim-portfolio.netlify.app/)
